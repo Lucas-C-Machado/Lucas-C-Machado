@@ -17,6 +17,15 @@ Sou um desenvolvedor com interesse em todas as áreas da tecnologia. Gosto de cr
 
 ---
 
+### 📊 Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-C-Machado&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-C-Machado&layout=compact&theme=radical&card_width=320" height="180"/>
+</p>
+
+---
+
 ### 💼 Portfólio
 
 Você pode acessar meu portfólio completo com projetos interativos, currículo e mais em:
