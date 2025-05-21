@@ -1,23 +1,23 @@
-<h1 align="center">Olá! Eu sou o Lucas 👋</h1>
+<h1 align="center">Hello! I'm Lucas 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor apaixonado por transformar ideias em experiências digitais.</em>
+  <em>Developer passionate about turning ideas into digital experiences.</em>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Sou um desenvolvedor com interesse em todas as áreas da tecnologia. Gosto de criar soluções criativas, desde interfaces intuitivas até jogos simples e dinâmicos.
+I am a developer interested in all areas of technology. I enjoy creating creative solutions, from intuitive interfaces to simple and dynamic games.
 
-- 🎮 Trabalho com projetos variados, desde portfólios pessoais a jogos e sistemas web.
-- 🛠️ Minhas tecnologias principais são: **HTML**, **CSS** e **JavaScript**.
-- 🧩 Tenho experiência com outras linguagens e frameworks e estou sempre aprendendo mais.
-- 📚 Em constante evolução, focado em aprender, criar e colaborar.
+- 🎮 I work on diverse projects, from personal portfolios to games and web systems.
+- 🛠️ My main technologies are: **HTML**, **CSS**, and **JavaScript**.
+- 🧩 I have experience with other languages and frameworks and am always learning more.
+- 📚 Constantly evolving, focused on learning, creating, and collaborating.
 
 ---
 
-### 📊 Status
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-C-Machado&show_icons=true&theme=radical" height="180"/>
@@ -26,15 +26,15 @@ Sou um desenvolvedor com interesse em todas as áreas da tecnologia. Gosto de cr
 
 ---
 
-### 💼 Portfólio
+### 💼 Portfolio
 
-Você pode acessar meu portfólio completo com projetos interativos, currículo e mais em:
+You can access my complete portfolio with interactive projects, resume, and more at:
 
 🔗 [lucas-machado.dev](https://lucas-c-machado.github.io/Portfolio/)
 
 ---
 
-### 📌 Tecnologias e Ferramentas
+### 📌 Technologies and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -49,38 +49,38 @@ Você pode acessar meu portfólio completo com projetos interativos, currículo 
 
 ---
 
-### 🧠 Projetos em Destaque
+### 🧠 Featured Projects
 
 <table align="center">
   <thead>
     <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
+      <th>Project</th>
+      <th>Description</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🎨 <strong>Portfólio Web</strong></td>
-      <td>Site pessoal com currículo e projetos.</td>
-      <td><a href="https://lucas-c-machado.github.io/Portfolio/">Ver site</a></td>
+      <td>🎨 <strong>Web Portfolio</strong></td>
+      <td>Personal website with resume and projects.</td>
+      <td><a href="https://lucas-c-machado.github.io/Portfolio/">View site</a></td>
     </tr>
     <tr>
       <td>🐤 <strong>Flappy Bird</strong></td>
-      <td>Jogo desenvolvido inteiramente em JAVA.</td>
-      <td><a href="https://github.com/Lucas-C-Machado/Flappy-Bird">Ver jogo</a></td>
+      <td>Game fully developed in JAVA.</td>
+      <td><a href="https://github.com/Lucas-C-Machado/Flappy-Bird">View game</a></td>
     </tr>
     <tr>
-      <td>🤖 <strong>Bot TikTok</strong></td>
-      <td>Bot automático de curtidas e páginas no TikTok.</td>
-      <td><a href="https://github.com/Lucas-C-Machado/Bot-TikTok">Ver automação</a></td>
+      <td>🤖 <strong>TikTok Bot</strong></td>
+      <td>Automated likes and page bot for TikTok.</td>
+      <td><a href="https://github.com/Lucas-C-Machado/Bot-TikTok">View automation</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-c-machado-80090b307/" target="_blank">
@@ -102,4 +102,4 @@ Você pode acessar meu portfólio completo com projetos interativos, currículo 
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil!</p>
+<p align="center">✨ Thanks for visiting my profile!</p>
